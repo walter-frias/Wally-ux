@@ -1,129 +1,159 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Walter Agustin Frias
+# 👋 Hola, soy Walter Frías
 
-### 💻 Estudiante de 2.º año de la Tecnicatura Universitaria en Programación (UTN)
+### 💻 Estudiante de 2.º año de la Tecnicatura Universitaria en Programación - UTN
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Java+Developer+in+Progress;Spring+Boot+%7C+SQL+%7C+JPA+Hibernate;Siempre+aprendiendo+y+creando+proyectos" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Java+Developer+in+Progress;Java+%7C+Spring+Boot+%7C+SQL+%7C+JPA+Hibernate;Buscando+mi+primera+experiencia+IT+como+Junior" />
 
 </div>
 
 ---
 
-# 🚀 Sobre mí
+## 👨‍💻 Perfil profesional
 
-🎓 Soy Estudiante de **2.º año** de la Tecnicatura Universitaria en Programación (UTN).
+Soy estudiante de **2.º año de la Tecnicatura Universitaria en Programación en UTN**.
 
-📚 Actualmente recorriendo y profundizando en:
+Estoy orientando mi formación hacia el desarrollo **Backend con Java**, bases de datos y construcción de aplicaciones con arquitectura clara.
 
-- Java
-- Spring Boot
-- JPA / Hibernate
-- SQL y Bases de Datos
-- Git & GitHub
-- APIs REST
-- HTML, CSS y TypeScript
-
-Mi objetivo es conseguir mi **primer empleo como Desarrollador Backend Java Junior**, seguir aprendiendo y participar en proyectos reales.
+Actualmente busco mi **primera oportunidad como Desarrollador Backend Java Junior**, donde pueda seguir aprendiendo, trabajar en equipo y aportar desde mis proyectos académicos y personales.
 
 ---
 
-# 🛠 Tecnologías
+## 🎯 Objetivo actual
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,hibernate,git,github,idea,vscode,html,css,ts,js"/>
-
-</p>
+- Consolidar bases fuertes en **Java Backend**
+- Profundizar en **Spring Boot**
+- Mejorar buenas prácticas de código
+- Desarrollar APIs REST
+- Fortalecer SQL, JPA e Hibernate
+- Prepararme para un puesto **Junior / Trainee**
 
 ---
 
-# 📊 Estadísticas
+## 🛠 Tecnologías y herramientas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wally-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wally-ux&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,hibernate,git,github,idea,vscode,html,css,ts,js" />
 
 </div>
 
 ---
 
-# 🔥 Racha de contribuciones
+## 📌 Stack principal
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Wally-ux&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📂 Proyectos destacados
-
-### 🍔 Food Store
-
-Proyecto Full Stack desarrollado para la universidad.
-
-✔ Backend Java
-
-✔ Frontend
-
-✔ Base de Datos
-
-✔ CRUD completo
-
-✔ Roles de usuario
-
-✔ Panel Administrador
+```txt
+Backend: Java, Spring Boot, JPA, Hibernate
+Base de datos: MySQL, PostgreSQL, MongoDB
+Frontend: HTML, CSS, JavaScript, TypeScript
+Herramientas: Git, GitHub, IntelliJ IDEA, VS Code
+```
 
 ---
 
-### 📚 Gestión Académica
+## 📂 Proyectos destacados
 
-Proyecto de Base de Datos.
+### 🍔 Food Store - Proyecto Full Stack
 
-- Modelo Relacional
-- SQL
-- Consultas
-- Normalización
+Proyecto académico de e-commerce desarrollado como trabajo integrador.
+
+**Características principales:**
+
+- Backend con Java
+- Frontend con TypeScript
+- Gestión de productos
+- Gestión de categorías
+- Carrito de compras
+- Roles de usuario
+- Panel de administración
+- Persistencia de datos
 
 ---
 
-### ☕ Java + JPA + Hibernate
+### ☕ Proyecto Java + JPA + Hibernate
 
-Trabajo Integrador.
+Aplicación de consola desarrollada con arquitectura por capas.
 
-- CRUD
+**Incluye:**
+
+- Entidades
 - Repositorios
-- Persistencia
-- Relaciones
-- Hibernate
-- JPA
+- CRUD completo
+- Baja lógica
+- Relaciones entre entidades
+- Persistencia con JPA/Hibernate
+- Base de datos H2
 
 ---
 
-# 🌱 Actualmente aprendiendo
+### 🗄️ Proyectos SQL
+
+Trabajos prácticos de bases de datos orientados a:
+
+- Modelo relacional
+- Consultas SQL
+- Normalización
+- Relaciones entre tablas
+- Gestión académica
+- Tienda de productos
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=walter-frias&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walter-frias&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=walter-frias&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Actualmente aprendiendo
 
 - Spring Boot
-- Arquitectura Backend
 - APIs REST
-- Buenas prácticas
 - Clean Code
-- Docker (próximamente)
+- Arquitectura Backend
+- Seguridad básica en aplicaciones
+- Docker
+- Testing
 
 ---
 
-# 📫 Contacto
+## 💼 Lo que puedo aportar como perfil Junior
 
-<p align="center">
+- Compromiso con el aprendizaje
+- Buena predisposición para trabajar en equipo
+- Capacidad para explicar mi código
+- Proyectos reales de la carrera
+- Interés fuerte por backend, bases de datos y buenas prácticas
+- Constancia para mejorar día a día
 
-<a href="https://github.com/Wally-ux">
-<img src="https://img.shields.io/badge/GitHub-Wally--ux-181717?style=for-the-badge&logo=github"/>
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+<a href="https://github.com/walter-frias">
+<img src="https://img.shields.io/badge/GitHub-walter--frias-181717?style=for-the-badge&logo=github" />
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -131,8 +161,8 @@ Trabajo Integrador.
 
 ### ⭐ Gracias por visitar mi perfil
 
-*"Cada proyecto es un paso más hacia mi primer trabajo como desarrollador."*
+*"Estoy construyendo mi camino como desarrollador backend, proyecto a proyecto."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
 
 </div>
