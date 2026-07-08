@@ -16,7 +16,6 @@ Soy estudiante de **2.º año de la Tecnicatura Universitaria en Programación e
 
 Estoy orientando mi formación hacia el desarrollo **Backend con Java**, bases de datos y construcción de aplicaciones con arquitectura clara.
 
-Actualmente busco mi **primera oportunidad como Desarrollador Backend Java Junior**, donde pueda seguir aprendiendo, trabajar en equipo y aportar desde mis proyectos académicos y personales.
 
 ---
 
